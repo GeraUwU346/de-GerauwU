@@ -1,0 +1,3 @@
+import random
+Yo = ["me gusta el chocolate", "Soy GeraUwU", "soy estudiante", "UwU", "mm y ya :3"]
+print(random.choice(Yo))
